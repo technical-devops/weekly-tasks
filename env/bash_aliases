@@ -1,3 +1,7 @@
 alias h='history'
 alias so='source ~/.profile'
 alias hwdown='sudo shutdown -h now'
+alias cp='cp -i'
+alias mv='mv -i'
+alias rm='rm -i'
+
