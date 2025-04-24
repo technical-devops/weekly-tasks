@@ -1,0 +1,3 @@
+alias h='history'
+alias so='source ~/.profile'
+alias hwdown='sudo shutdown -h now'
