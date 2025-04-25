@@ -21,6 +21,6 @@ create table member (
 /* part : 파트 한글 이름
 /* Class : 구성원의 기술등급
 /* hp : 구성원의 핸드폰 번호
-/* inday : 입사일일
+/* inday : 입사일
 /* vailed : 구성원 근무중인지 아니면 퇴사인지..아니면 .
 /* description : 구성원에 대한 기타 정보 입력
